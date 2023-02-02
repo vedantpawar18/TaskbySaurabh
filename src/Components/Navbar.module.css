@@ -1,0 +1,53 @@
+.navbar{
+height: 60px;
+width: 85%;
+/* border: 1px solid red; */
+margin: auto;
+display: flex;
+/* background-color: #282933; */
+}
+
+
+
+.navbarLeft{
+    height: 100%;
+    width: 35%;
+    /* border: 1px solid blue; */
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: white;
+}
+.navbarRight{
+    height: 100%;
+    width: 65%;
+    /* border: 1px solid black; */
+    display: flex;
+    justify-content: space-between;
+}
+
+.navbarRight>div{
+    /* border: 1px solid white; */
+    height: 100%;
+    width: 16%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.menuName{
+    color: white;
+    font-weight: 500;
+}
+
+.signUp{
+    height: 70%;
+    width: 90%;
+    background-color: #55B26C;
+    border-radius: 12px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-weight: 500;
+}

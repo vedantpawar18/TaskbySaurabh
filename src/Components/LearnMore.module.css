@@ -1,0 +1,76 @@
+.explore{
+    /* border: 1px solid red; */
+    height: 60vh;
+    width: 85%;
+    margin: auto;
+    margin-top: 60px;
+    display: flex;
+}
+
+.exploreRight{
+    /* border: 1px solid white; */
+    height: 100%;
+    width: 60%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.exploreLeft{
+    /* border: 1px solid white; */
+    height: 100%;
+    width: 40%;
+}
+
+.exploreLeft>div{
+    border: 0.001px solid rgba(0, 0, 0, 0);
+}
+
+.exploreBold{
+    height: 25%;
+    width: 100%;
+    color: white;
+    font-size: 26px;
+    text-align: left;
+    line-height: 16px;
+    
+}
+
+.exploreSmall{
+    height: 25%;
+    width: 100%;
+    color: rgb(126, 124, 124);
+    font-size: 16px;
+    text-align: left;
+    line-height: 8px;
+}
+
+.exploreBottom{
+    height: 25%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.exploreBottom>div{
+    /* border: 1px solid green; */
+    width: 50%;
+    height: 70%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.exploreButton{
+    border-radius: 12px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    background-color: #3E72FF;
+}
+
+.exploreRight>img{
+    height: 100%;
+}

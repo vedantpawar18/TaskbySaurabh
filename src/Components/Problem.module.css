@@ -1,0 +1,9 @@
+.problem{
+    /* border: 1px solid red; */
+    width: 85%;
+    height: 30vh;
+    margin: auto;
+    margin-top: 60px;
+    color: white;
+    font-size: 28px;
+}
